@@ -1,1 +1,1 @@
-- [Examples](https://github.com/koki-develop/bun-diff-action-example/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc)
+- [Examples](https://github.com/koki-develop/bun-diff-action-example/pulls?q=is%3Apr+is%3Aclosed+sort%3Acreated-asc)
